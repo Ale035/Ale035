@@ -11,9 +11,9 @@ I'm developer and computer engineering student, currently I dedicate myself to d
 (Spanish)https://ale035.github.io/portafolio/
 
 ### Hot Links & social media
-Discord Username: Akuma_UwO#1375
-Telegram: https://t.me/Akuma_Uwo
-Facebook: https://www.facebook.com/profile.php?id=100084148587627&mibextid=ZbWKwL
+-Discord Username: Akuma_UwO#1375
+-Telegram: https://t.me/Akuma_Uwo
+-Facebook: https://www.facebook.com/profile.php?id=100084148587627&mibextid=ZbWKwL
 
 
 
