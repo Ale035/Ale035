@@ -5,9 +5,10 @@ I'm developer and computer engineering student, currently I dedicate myself to d
 
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on new projects
+- 📫 How to reach me: https://t.me/Akuma_Uwo
 
 ### Portfolio
-https://ale035.github.io/portafolio/
+(Spanish)https://ale035.github.io/portafolio/
 
 
 
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
