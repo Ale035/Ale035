@@ -1,5 +1,5 @@
 ### Hi there, Welcome to my profile 👋
-### My name is Alejandro Perez 
+### My name is Alejandro Pérez 
 ### Nickname(Akuma)
 I'm developer and computer engineering student, currently I dedicate myself to doing projects to improve my skills. Technology caught my attention since I was a child. So I decided to go into technical service and later with software development. My goal is to be able to improve and in the future help in developments that provide benefits worldwide.
 
@@ -9,6 +9,11 @@ I'm developer and computer engineering student, currently I dedicate myself to d
 
 ### Portfolio
 (Spanish)https://ale035.github.io/portafolio/
+
+### Hot Links & social media
+Discord Username: Akuma_UwO#1375
+Telegram: https://t.me/Akuma_Uwo
+Facebook: https://www.facebook.com/profile.php?id=100084148587627&mibextid=ZbWKwL
 
 
 
